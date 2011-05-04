@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="82fed324-4bcf-46be-942c-d8194cdea0aa" name="rallen@RALLEN-PC 2011-04-23 15:46:16" runUser="rallen-PC\rallen" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="85675982-c91d-4b81-92e0-5839181a35e7">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="rallen_RALLEN-PC 2011-04-23 15_46_16">
+      <DeploymentItem filename="C:\Users\rallen\Documents\Visual Studio 2010\Projects\ThermoFisherScientificCodeSamples\ThermoFisherScientificCodeSamples\bin\Debug\ThermoFisherScientificCodeSamples.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-04-23T15:46:16.3801039-06:00" queuing="2011-04-23T15:46:16.4371072-06:00" start="2011-04-23T15:46:16.6401188-06:00" finish="2011-04-23T15:46:18.1192034-06:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetFibonacciTest" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="bb0a01ad-5185-5e7f-ff14-553f6f16037c">
+      <Execution id="304f1856-e447-4087-9748-f15088d83c1f" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.FibonacciTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetFibonacciTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="bb0a01ad-5185-5e7f-ff14-553f6f16037c" executionId="304f1856-e447-4087-9748-f15088d83c1f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="304f1856-e447-4087-9748-f15088d83c1f" testId="bb0a01ad-5185-5e7f-ff14-553f6f16037c" testName="GetFibonacciTest" computerName="RALLEN-PC" duration="00:00:00.1588898" startTime="2011-04-23T15:46:16.6871215-06:00" endTime="2011-04-23T15:46:17.9011909-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="304f1856-e447-4087-9748-f15088d83c1f">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;0&gt;. Actual:&lt;1134903170&gt;. </Message>
+          <StackTrace>   at ThermoFisherScientificCodeSampleTests.FibonacciTest.GetFibonacciTest() in C:\Users\rallen\Documents\Visual Studio 2010\Projects\ThermoFisherScientificCodeSamples\ThermoFisherScientificCodeSampleTests\FibonacciTest.cs:line 82
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

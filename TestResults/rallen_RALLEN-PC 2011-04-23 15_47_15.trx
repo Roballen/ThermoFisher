@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a5d092bd-a821-4e99-8640-ab20ac5feafd" name="rallen@RALLEN-PC 2011-04-23 15:47:15" runUser="rallen-PC\rallen" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="85675982-c91d-4b81-92e0-5839181a35e7">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="rallen_RALLEN-PC 2011-04-23 15_47_15">
+      <DeploymentItem filename="C:\Users\rallen\Documents\Visual Studio 2010\Projects\ThermoFisherScientificCodeSamples\ThermoFisherScientificCodeSamples\bin\Debug\ThermoFisherScientificCodeSamples.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-04-23T15:47:15.6154920-06:00" queuing="2011-04-23T15:47:21.1838105-06:00" start="2011-04-23T15:47:21.7638436-06:00" finish="2011-04-23T15:48:20.5262047-06:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="RALLEN-PC" outcome="Error" timestamp="2011-04-23T15:48:20.5152040-06:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetFibonacciTest" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="bb0a01ad-5185-5e7f-ff14-553f6f16037c">
+      <Execution id="6ca42890-e95f-4304-b377-a69bb5d03d2d" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.FibonacciTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetFibonacciTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="bb0a01ad-5185-5e7f-ff14-553f6f16037c" executionId="6ca42890-e95f-4304-b377-a69bb5d03d2d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6ca42890-e95f-4304-b377-a69bb5d03d2d" testId="bb0a01ad-5185-5e7f-ff14-553f6f16037c" testName="GetFibonacciTest" computerName="RALLEN-PC" duration="00:00:58.2803335" startTime="2011-04-23T15:47:22.2458712-06:00" endTime="2011-04-23T15:48:20.5262047-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6ca42890-e95f-4304-b377-a69bb5d03d2d">
+    </UnitTestResult>
+  </Results>
+</TestRun>

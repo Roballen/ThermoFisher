@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5274c05d-159b-4b02-8fed-2b7a3bca5f2f" name="rallen@RALLEN-PC 2011-04-23 16:09:06" runUser="rallen-PC\rallen" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="85675982-c91d-4b81-92e0-5839181a35e7">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="rallen_RALLEN-PC 2011-04-23 16_09_06">
+      <DeploymentItem filename="C:\Users\rallen\Documents\Visual Studio 2010\Projects\ThermoFisherScientificCodeSamples\ThermoFisherScientificCodeSamples\bin\Debug\ThermoFisherScientificCodeSamples.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-04-23T16:09:06.9954986-06:00" queuing="2011-04-23T16:09:07.8375468-06:00" start="2011-04-23T16:09:07.9405527-06:00" finish="2011-04-23T16:09:09.4406385-06:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestLowerNumbers" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="d14946ee-eabe-a9d1-bd96-ef65fcb93ed0">
+      <Execution id="77cb3150-0e85-4242-b984-704fbeb50370" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.FibonacciTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestLowerNumbers" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="d14946ee-eabe-a9d1-bd96-ef65fcb93ed0" executionId="77cb3150-0e85-4242-b984-704fbeb50370" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="77cb3150-0e85-4242-b984-704fbeb50370" testId="d14946ee-eabe-a9d1-bd96-ef65fcb93ed0" testName="TestLowerNumbers" computerName="RALLEN-PC" duration="00:00:00.0319973" startTime="2011-04-23T16:09:08.1035620-06:00" endTime="2011-04-23T16:09:09.1586224-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="77cb3150-0e85-4242-b984-704fbeb50370">
+    </UnitTestResult>
+  </Results>
+</TestRun>

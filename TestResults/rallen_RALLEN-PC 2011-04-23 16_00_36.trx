@@ -1,0 +1,802 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a1a69037-9173-450c-a95e-c63288c18e81" name="rallen@RALLEN-PC 2011-04-23 16:00:36" runUser="rallen-PC\rallen" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="85675982-c91d-4b81-92e0-5839181a35e7">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment runDeploymentRoot="rallen_RALLEN-PC 2011-04-23 16_00_36">
+      <DeploymentItem filename="C:\Users\rallen\Documents\Visual Studio 2010\Projects\ThermoFisherScientificCodeSamples\ThermoFisherScientificCodeSamples\bin\Debug\ThermoFisherScientificCodeSamples.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-04-23T16:00:36.2142836-06:00" queuing="2011-04-23T16:00:37.3943511-06:00" start="2011-04-23T16:00:37.9343820-06:00" finish="2011-04-23T16:01:01.6017357-06:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="23" executed="23" passed="21" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="1" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="RemoveSpaces_StringBuilder_foreach_Should_Remove_All_Spaces" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="4f1a8139-2ecd-30c5-5e9f-22e91cd5f3b1">
+      <Execution id="89bc84cf-0564-401a-bd23-c3bac389d911" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.RemoveSpacesTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RemoveSpaces_StringBuilder_foreach_Should_Remove_All_Spaces" />
+    </UnitTest>
+    <UnitTest name="TestLowerNumbers" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="d14946ee-eabe-a9d1-bd96-ef65fcb93ed0">
+      <Execution id="8c1ba649-f1fe-4bac-9ba3-702cb7c58661" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.FibonacciTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestLowerNumbers" />
+    </UnitTest>
+    <UnitTest name="Test_All_Methods_Against_String_with_no_spaces" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="901b2ee2-8712-eeb3-d9a4-5a1cbdf0715e">
+      <Execution id="e842a138-807c-46b6-af60-582d8172b2b5" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.RemoveSpacesTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_All_Methods_Against_String_with_no_spaces" />
+    </UnitTest>
+    <UnitTest name="GetFibonacciTest" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="bb0a01ad-5185-5e7f-ff14-553f6f16037c">
+      <Execution id="7bb54fb9-dc8c-48be-bd44-1e14426f63f0" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.FibonacciTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetFibonacciTest" />
+    </UnitTest>
+    <UnitTest name="DecimalToBinary_FasterTest" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="5f185f43-c96a-57b8-a8fb-a3bd70fd2e86">
+      <Execution id="30620b9e-afa9-4154-a5b8-8c729e662ebd" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.BinaryToolsTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DecimalToBinary_FasterTest" />
+    </UnitTest>
+    <UnitTest name="RemoveSpaces_LINQ_Should_Remove_All_Spaces" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="cfde39b1-b5fd-29fe-7f0c-4405cafae970">
+      <Execution id="59bda74a-4a67-4c17-b986-bf75b48d0de0" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.RemoveSpacesTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RemoveSpaces_LINQ_Should_Remove_All_Spaces" />
+    </UnitTest>
+    <UnitTest name="BadInput" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="995c84b0-0b08-d65b-e13b-37f729e56182">
+      <Execution id="68da2925-73f8-4a9a-a612-1ff017ab3932" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.FibonacciTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BadInput" />
+    </UnitTest>
+    <UnitTest name="TestIntMaxValueCustom" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="4521557e-6bb1-c2e1-7235-18ad762b2712">
+      <Execution id="67960557-bc26-4a47-b508-cd73cbb32dcf" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.BinaryToolsTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIntMaxValueCustom" />
+    </UnitTest>
+    <UnitTest name="FrameworkMethod_Should_Be_Same_As_Custom" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="f336e2c2-1889-4000-7f0e-a4e55c5810d0">
+      <Execution id="6b715616-cabc-43cc-839d-19d4124991cd" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.BinaryToolsTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FrameworkMethod_Should_Be_Same_As_Custom" />
+    </UnitTest>
+    <UnitTest name="DecimalToAnyBaseExpandedTest" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="ea2a1d6e-c10e-2769-6e75-02c6ed756307">
+      <Execution id="1ee21f39-4dbb-4ebd-83c4-b29ca5f1732a" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.BinaryToolsTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DecimalToAnyBaseExpandedTest" />
+    </UnitTest>
+    <UnitTest name="RemoveSpaces_CustomReplace_Should_Remove_All_Spaces" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="6d589604-2491-e2da-6afc-109adb6edcb3">
+      <Execution id="93add91b-c925-4e80-93f1-33b31dad0d92" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.RemoveSpacesTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RemoveSpaces_CustomReplace_Should_Remove_All_Spaces" />
+    </UnitTest>
+    <UnitTest name="DecimalToBinaryTest" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="24b5f6a3-cd2e-6557-c743-ca9fb55b8168">
+      <Execution id="bc432d28-7410-499e-803d-ceaedc1f20ba" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.BinaryToolsTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DecimalToBinaryTest" />
+    </UnitTest>
+    <UnitTest name="DecimalToAnyBaseCustomTests" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="c1b0866d-7d9f-eea5-de47-f04bc6f8c38e">
+      <Execution id="4e72e039-a642-4d82-bd41-0afc1bfea474" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.BinaryToolsTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DecimalToAnyBaseCustomTests" />
+    </UnitTest>
+    <UnitTest name="RemoveSpaces_StringBuilder_Should_Remove_All_Spaces" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="5314bee0-b236-78d9-5d3e-06200d35405c">
+      <Execution id="f9ff4606-4386-4fad-bbc3-3d28872f7348" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.RemoveSpacesTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RemoveSpaces_StringBuilder_Should_Remove_All_Spaces" />
+    </UnitTest>
+    <LoadTest Name="RemoveSpacesPerformanceTest" Description="" Owner="" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\removespacesperformancetest.loadtest" Priority="2147483647" Enabled="true" CssProjectStructure="" CssIteration="" DeploymentItemsEditable="" WorkItemIds="" TraceLevel="None" CurrentRunConfig="Run Settings1" Id="67e4a884-b7d8-4d7d-beff-42c665e4c614">
+      <Scenarios>
+        <Scenario Name="Scenario1" DelayBetweenIterations="0" PercentNewUsers="0" IPSwitching="true" TestMixType="PercentageOfTestsStarted" ApplyDistributionToPacingDelay="true" MaxTestIterations="0" DisableDuringWarmup="false" DelayStartTime="0" AllowedAgents="">
+          <ThinkProfile Value="0.2" Pattern="NormalDistribution" />
+          <LoadProfile Pattern="Constant" InitialUsers="10" />
+          <TestMix>
+            <TestProfile Name="RemoveSpaces_CustomReplace_Should_Remove_All_Spaces" Path="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" Id="6d589604-2491-e2da-6afc-109adb6edcb3" Percentage="20" Type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+            <TestProfile Name="RemoveSpaces_LINQ_Should_Remove_All_Spaces" Path="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" Id="cfde39b1-b5fd-29fe-7f0c-4405cafae970" Percentage="20" Type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+            <TestProfile Name="RemoveSpaces_Should_Remove_All_Spaces" Path="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" Id="afd117f6-2b60-cf52-0e39-d6e0cf09fe06" Percentage="20" Type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+            <TestProfile Name="RemoveSpaces_StringBuilder_foreach_Should_Remove_All_Spaces" Path="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" Id="4f1a8139-2ecd-30c5-5e9f-22e91cd5f3b1" Percentage="20" Type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+            <TestProfile Name="RemoveSpaces_StringBuilder_Should_Remove_All_Spaces" Path="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" Id="5314bee0-b236-78d9-5d3e-06200d35405c" Percentage="20" Type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+          </TestMix>
+          <NetworkMix>
+            <NetworkProfile Percentage="100">
+              <Network Name="LAN" BandwidthInKbps="1000000" NetworkProfileConfigurationXml="&lt;Emulation&gt;&lt;VirtualChannel name=&quot;defaultChannel&quot;&gt;&lt;FilterList/&gt;&lt;VirtualLink instances=&quot;1&quot; name=&quot;defaultLink&quot;&gt;&lt;LinkRule dir=&quot;upstream&quot;&gt;&lt;Bandwidth&gt;&lt;Speed unit=&quot;kbps&quot;&gt;1000000&lt;/Speed&gt;&lt;/Bandwidth&gt;&lt;/LinkRule&gt;&lt;LinkRule dir=&quot;downstream&quot;&gt;&lt;Bandwidth&gt;&lt;Speed unit=&quot;kbps&quot;&gt;1000000&lt;/Speed&gt;&lt;/Bandwidth&gt;&lt;/LinkRule&gt;&lt;/VirtualLink&gt;&lt;/VirtualChannel&gt;&lt;/Emulation&gt;" />
+            </NetworkProfile>
+          </NetworkMix>
+        </Scenario>
+      </Scenarios>
+      <CounterSets>
+        <CounterSet Name="RALLEN-PC" CounterSetType="LoadTest" LocId="">
+          <CounterCategories>
+            <CounterCategory Name="LoadTest:Scenario">
+              <Counters>
+                <Counter Name="User Load" HigherIsBetter="true" />
+                <Counter Name="Tests Running" HigherIsBetter="true" />
+              </Counters>
+            </CounterCategory>
+            <CounterCategory Name="LoadTest:Test">
+              <Counters>
+                <Counter Name="Total Tests" HigherIsBetter="true" />
+                <Counter Name="Passed Tests" HigherIsBetter="true" />
+                <Counter Name="Failed Tests" />
+                <Counter Name="Tests/Sec" HigherIsBetter="true" />
+                <Counter Name="Passed Tests/Sec" HigherIsBetter="true" />
+                <Counter Name="Failed Tests/Sec" />
+                <Counter Name="Avg. Requests/Test" HigherIsBetter="true" />
+                <Counter Name="Avg. Test Time" />
+                <Counter Name="% Time in LoadTestPlugin" />
+                <Counter Name="% Time in WebTest code" />
+                <Counter Name="% Time in Rules" />
+              </Counters>
+            </CounterCategory>
+            <CounterCategory Name="LoadTest:Transaction">
+              <Counters>
+                <Counter Name="Total Transactions" HigherIsBetter="true" />
+                <Counter Name="Avg. Transaction Time" />
+                <Counter Name="Avg. Response Time" />
+                <Counter Name="Transactions/Sec" HigherIsBetter="true" />
+              </Counters>
+            </CounterCategory>
+            <CounterCategory Name="LoadTest:Errors">
+              <Counters>
+                <Counter Name="Http Errors" />
+                <Counter Name="Validation Rule Errors" />
+                <Counter Name="Extraction Rule Errors" />
+                <Counter Name="Requests Timed Out" />
+                <Counter Name="Exceptions" />
+                <Counter Name="Total Errors" />
+                <Counter Name="Errors/Sec" />
+                <Counter Name="Threshold Violations/Sec" />
+              </Counters>
+            </CounterCategory>
+            <CounterCategory Name="LoadTest:Page">
+              <Counters>
+                <Counter Name="Total Pages" HigherIsBetter="true" />
+                <Counter Name="Avg. Page Time" />
+                <Counter Name="Page Response Time Goal" HigherIsBetter="true" />
+                <Counter Name="% Pages Meeting Goal" HigherIsBetter="true" />
+                <Counter Name="Pages/Sec" HigherIsBetter="true" />
+              </Counters>
+            </CounterCategory>
+            <CounterCategory Name="LoadTest:Request">
+              <Counters>
+                <Counter Name="Total Requests" HigherIsBetter="true" />
+                <Counter Name="Passed Requests" HigherIsBetter="true" />
+                <Counter Name="Failed Requests" />
+                <Counter Name="Cached Requests" HigherIsBetter="true" />
+                <Counter Name="Requests/Sec" HigherIsBetter="true" />
+                <Counter Name="Passed Requests/Sec" HigherIsBetter="true" />
+                <Counter Name="Failed Requests/Sec" />
+                <Counter Name="Avg. First Byte Time" />
+                <Counter Name="Avg. Response Time" />
+                <Counter Name="Avg. Connection Wait Time">
+                  <ThresholdRules>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareCounters, Microsoft.VisualStudio.QualityTools.LoadTest, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+                      <RuleParameters>
+                        <RuleParameter Name="DependentCategory" Value="LoadTest:Page" />
+                        <RuleParameter Name="DependentCounter" Value="Avg. Page Time" />
+                        <RuleParameter Name="DependentInstance" Value="_Total" />
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="0.25" />
+                        <RuleParameter Name="CriticalThreshold" Value="0.5" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                  </ThresholdRules>
+                </Counter>
+                <Counter Name="Avg. Content Length" />
+              </Counters>
+            </CounterCategory>
+            <CounterCategory Name="LoadTest:LogEntries">
+              <Counters>
+                <Counter Name="Total Log Entries" />
+                <Counter Name="Log Entries/Sec" />
+              </Counters>
+            </CounterCategory>
+          </CounterCategories>
+        </CounterSet>
+        <CounterSet Name="Controller" CounterSetType="Controller" LocId="CounterSet_Controller">
+          <CounterCategories>
+            <CounterCategory Name="Memory">
+              <Counters>
+                <Counter Name="% Committed Bytes In Use" Range="100" />
+                <Counter Name="Available MBytes" RangeGroup="Memory Bytes" HigherIsBetter="true">
+                  <ThresholdRules>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="False" />
+                        <RuleParameter Name="WarningThreshold" Value="100" />
+                        <RuleParameter Name="CriticalThreshold" Value="50" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="False" />
+                        <RuleParameter Name="WarningThreshold" Value="100" />
+                        <RuleParameter Name="CriticalThreshold" Value="50" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="False" />
+                        <RuleParameter Name="WarningThreshold" Value="100" />
+                        <RuleParameter Name="CriticalThreshold" Value="50" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="False" />
+                        <RuleParameter Name="WarningThreshold" Value="100" />
+                        <RuleParameter Name="CriticalThreshold" Value="50" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="False" />
+                        <RuleParameter Name="WarningThreshold" Value="100" />
+                        <RuleParameter Name="CriticalThreshold" Value="50" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                  </ThresholdRules>
+                </Counter>
+                <Counter Name="Page Faults/sec" />
+                <Counter Name="Pages/sec" />
+                <Counter Name="Pool Paged Bytes" RangeGroup="Memory Bytes" />
+                <Counter Name="Pool Nonpaged bytes" RangeGroup="Memory Bytes" />
+              </Counters>
+            </CounterCategory>
+            <CounterCategory Name="Network Interface">
+              <Counters>
+                <Counter Name="Bytes Received/sec" RangeGroup="Network Bytes" />
+                <Counter Name="Bytes Sent/sec" RangeGroup="Network Bytes" />
+                <Counter Name="Output Queue Length">
+                  <ThresholdRules>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="1.5" />
+                        <RuleParameter Name="CriticalThreshold" Value="2" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="1.5" />
+                        <RuleParameter Name="CriticalThreshold" Value="2" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="1.5" />
+                        <RuleParameter Name="CriticalThreshold" Value="2" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="1.5" />
+                        <RuleParameter Name="CriticalThreshold" Value="2" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="1.5" />
+                        <RuleParameter Name="CriticalThreshold" Value="2" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                  </ThresholdRules>
+                </Counter>
+                <Counter Name="Packets Received/sec" RangeGroup="Network Packets" />
+                <Counter Name="Packets Sent/sec" RangeGroup="Network Packets" />
+                <Counter Name="Current Bandwidth" RangeGroup="Network Bytes" />
+                <Counter Name="Bytes Total/sec" RangeGroup="Network Bytes">
+                  <ThresholdRules>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareCounters, Microsoft.VisualStudio.QualityTools.LoadTest, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+                      <RuleParameters>
+                        <RuleParameter Name="DependentCategory" Value="Network Interface" />
+                        <RuleParameter Name="DependentCounter" Value="Current Bandwidth" />
+                        <RuleParameter Name="DependentInstance" Value="" />
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="0.6" />
+                        <RuleParameter Name="CriticalThreshold" Value="0.7" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareCounters, Microsoft.VisualStudio.QualityTools.LoadTest, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+                      <RuleParameters>
+                        <RuleParameter Name="DependentCategory" Value="Network Interface" />
+                        <RuleParameter Name="DependentCounter" Value="Current Bandwidth" />
+                        <RuleParameter Name="DependentInstance" Value="" />
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="0.6" />
+                        <RuleParameter Name="CriticalThreshold" Value="0.7" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareCounters, Microsoft.VisualStudio.QualityTools.LoadTest, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+                      <RuleParameters>
+                        <RuleParameter Name="DependentCategory" Value="Network Interface" />
+                        <RuleParameter Name="DependentCounter" Value="Current Bandwidth" />
+                        <RuleParameter Name="DependentInstance" Value="" />
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="0.6" />
+                        <RuleParameter Name="CriticalThreshold" Value="0.7" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareCounters, Microsoft.VisualStudio.QualityTools.LoadTest, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+                      <RuleParameters>
+                        <RuleParameter Name="DependentCategory" Value="Network Interface" />
+                        <RuleParameter Name="DependentCounter" Value="Current Bandwidth" />
+                        <RuleParameter Name="DependentInstance" Value="" />
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="0.6" />
+                        <RuleParameter Name="CriticalThreshold" Value="0.7" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareCounters, Microsoft.VisualStudio.QualityTools.LoadTest, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+                      <RuleParameters>
+                        <RuleParameter Name="DependentCategory" Value="Network Interface" />
+                        <RuleParameter Name="DependentCounter" Value="Current Bandwidth" />
+                        <RuleParameter Name="DependentInstance" Value="" />
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="0.6" />
+                        <RuleParameter Name="CriticalThreshold" Value="0.7" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                  </ThresholdRules>
+                </Counter>
+              </Counters>
+              <Instances>
+                <Instance Name="*" />
+              </Instances>
+            </CounterCategory>
+            <CounterCategory Name="PhysicalDisk">
+              <Counters>
+                <Counter Name="% Disk Read Time" Range="100" />
+                <Counter Name="% Disk Time" Range="100" />
+                <Counter Name="% Disk Write Time" Range="100" />
+                <Counter Name="% Idle Time" Range="100" HigherIsBetter="true">
+                  <ThresholdRules>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="False" />
+                        <RuleParameter Name="WarningThreshold" Value="40" />
+                        <RuleParameter Name="CriticalThreshold" Value="20" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="False" />
+                        <RuleParameter Name="WarningThreshold" Value="40" />
+                        <RuleParameter Name="CriticalThreshold" Value="20" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="False" />
+                        <RuleParameter Name="WarningThreshold" Value="40" />
+                        <RuleParameter Name="CriticalThreshold" Value="20" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="False" />
+                        <RuleParameter Name="WarningThreshold" Value="40" />
+                        <RuleParameter Name="CriticalThreshold" Value="20" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="False" />
+                        <RuleParameter Name="WarningThreshold" Value="40" />
+                        <RuleParameter Name="CriticalThreshold" Value="20" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                  </ThresholdRules>
+                </Counter>
+                <Counter Name="Avg. Disk Bytes/Read" RangeGroup="DiskBytesRate" />
+                <Counter Name="Avg. Disk Bytes/Transfer" RangeGroup="DiskBytesRate" />
+                <Counter Name="Avg. Disk Bytes/Write" RangeGroup="DiskBytesRate" />
+                <Counter Name="Avg. Disk Queue Length" RangeGroup="Disk Queue Length" />
+                <Counter Name="Avg. Disk Read Queue Length" RangeGroup="Disk Queue Length" />
+                <Counter Name="Avg. Disk Write Queue Length" RangeGroup="Disk Queue Length" />
+                <Counter Name="Current Disk Queue Length" RangeGroup="Disk Queue Length" />
+                <Counter Name="Avg. Disk sec/Read" RangeGroup="Disk sec" />
+                <Counter Name="Avg. Disk sec/Transfer" RangeGroup="Disk sec" />
+                <Counter Name="Avg. Disk sec/Write" RangeGroup="Disk sec" />
+                <Counter Name="Disk Bytes/sec" RangeGroup="Disk Bytes sec" />
+                <Counter Name="Disk Read Bytes/sec" RangeGroup="Disk Bytes sec" />
+                <Counter Name="Disk Reads/sec" RangeGroup="Disk Transfers sec" />
+                <Counter Name="Disk Transfers/sec" RangeGroup="Disk Transfers sec" />
+                <Counter Name="Disk Write Bytes/sec" RangeGroup="Disk Bytes sec" />
+                <Counter Name="Disk Writes/sec" RangeGroup="Disk Transfers sec" />
+                <Counter Name="Split IO/Sec" RangeGroup="Disk Transfers sec" />
+              </Counters>
+              <Instances>
+                <Instance Name="*" />
+              </Instances>
+            </CounterCategory>
+            <CounterCategory Name="Processor">
+              <Counters>
+                <Counter Name="% Processor Time" Range="100">
+                  <ThresholdRules>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="75" />
+                        <RuleParameter Name="CriticalThreshold" Value="90" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="75" />
+                        <RuleParameter Name="CriticalThreshold" Value="90" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="75" />
+                        <RuleParameter Name="CriticalThreshold" Value="90" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="75" />
+                        <RuleParameter Name="CriticalThreshold" Value="90" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="75" />
+                        <RuleParameter Name="CriticalThreshold" Value="90" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                  </ThresholdRules>
+                </Counter>
+                <Counter Name="% Privileged Time" Range="100" />
+                <Counter Name="% User Time" Range="100" />
+              </Counters>
+              <Instances>
+                <Instance Name="_Total" />
+              </Instances>
+            </CounterCategory>
+            <CounterCategory Name="System">
+              <Counters>
+                <Counter Name="Context Switches/sec" />
+                <Counter Name="Processes" />
+                <Counter Name="Processor Queue Length" />
+                <Counter Name="Threads" />
+              </Counters>
+            </CounterCategory>
+            <CounterCategory Name="Process">
+              <Counters>
+                <Counter Name="% Processor Time" RangeGroup="Processor Time" />
+                <Counter Name="% Privileged Time" RangeGroup="Processor Time" />
+                <Counter Name="% User Time" RangeGroup="Processor Time" />
+                <Counter Name="Handle Count" />
+                <Counter Name="Thread Count" />
+                <Counter Name="Private Bytes" RangeGroup="Memory Bytes" />
+                <Counter Name="Virtual Bytes" RangeGroup="Memory Bytes" />
+                <Counter Name="Working Set" RangeGroup="Memory Bytes" />
+              </Counters>
+              <Instances>
+                <Instance Name="QTController" />
+              </Instances>
+            </CounterCategory>
+          </CounterCategories>
+          <DefaultCountersForAutomaticGraphs>
+            <DefaultCounter CategoryName="Processor" CounterName="% Processor Time" InstanceName="_Total" GraphName="" />
+            <DefaultCounter CategoryName="Memory" CounterName="Available MBytes" InstanceName="" GraphName="" />
+          </DefaultCountersForAutomaticGraphs>
+        </CounterSet>
+        <CounterSet Name="Agent" CounterSetType="Agent" LocId="CounterSet_Agent">
+          <CounterCategories>
+            <CounterCategory Name="Memory">
+              <Counters>
+                <Counter Name="% Committed Bytes In Use" Range="100" />
+                <Counter Name="Available MBytes" RangeGroup="Memory Bytes" HigherIsBetter="true">
+                  <ThresholdRules>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="False" />
+                        <RuleParameter Name="WarningThreshold" Value="100" />
+                        <RuleParameter Name="CriticalThreshold" Value="50" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                  </ThresholdRules>
+                </Counter>
+                <Counter Name="Page Faults/sec" />
+                <Counter Name="Pages/sec" />
+                <Counter Name="Pool Paged Bytes" RangeGroup="Memory Bytes" />
+                <Counter Name="Pool Nonpaged bytes" RangeGroup="Memory Bytes" />
+              </Counters>
+            </CounterCategory>
+            <CounterCategory Name="Network Interface">
+              <Counters>
+                <Counter Name="Bytes Received/sec" RangeGroup="Network Bytes" />
+                <Counter Name="Bytes Sent/sec" RangeGroup="Network Bytes" />
+                <Counter Name="Output Queue Length">
+                  <ThresholdRules>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="1.5" />
+                        <RuleParameter Name="CriticalThreshold" Value="2" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                  </ThresholdRules>
+                </Counter>
+                <Counter Name="Packets Received/sec" RangeGroup="Network Packets" />
+                <Counter Name="Packets Sent/sec" RangeGroup="Network Packets" />
+                <Counter Name="Current Bandwidth" RangeGroup="Network Bytes" />
+                <Counter Name="Bytes Total/sec" RangeGroup="Network Bytes">
+                  <ThresholdRules>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareCounters, Microsoft.VisualStudio.QualityTools.LoadTest, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+                      <RuleParameters>
+                        <RuleParameter Name="DependentCategory" Value="Network Interface" />
+                        <RuleParameter Name="DependentCounter" Value="Current Bandwidth" />
+                        <RuleParameter Name="DependentInstance" Value="" />
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="0.6" />
+                        <RuleParameter Name="CriticalThreshold" Value="0.7" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                  </ThresholdRules>
+                </Counter>
+              </Counters>
+              <Instances>
+                <Instance Name="*" />
+              </Instances>
+            </CounterCategory>
+            <CounterCategory Name="PhysicalDisk">
+              <Counters>
+                <Counter Name="% Disk Read Time" Range="100" />
+                <Counter Name="% Disk Time" Range="100" />
+                <Counter Name="% Disk Write Time" Range="100" />
+                <Counter Name="% Idle Time" Range="100" HigherIsBetter="true">
+                  <ThresholdRules>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="False" />
+                        <RuleParameter Name="WarningThreshold" Value="40" />
+                        <RuleParameter Name="CriticalThreshold" Value="20" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                  </ThresholdRules>
+                </Counter>
+                <Counter Name="Avg. Disk Bytes/Read" RangeGroup="DiskBytesRate" />
+                <Counter Name="Avg. Disk Bytes/Transfer" RangeGroup="DiskBytesRate" />
+                <Counter Name="Avg. Disk Bytes/Write" RangeGroup="DiskBytesRate" />
+                <Counter Name="Avg. Disk Queue Length" RangeGroup="Disk Queue Length" />
+                <Counter Name="Avg. Disk Read Queue Length" RangeGroup="Disk Queue Length" />
+                <Counter Name="Avg. Disk Write Queue Length" RangeGroup="Disk Queue Length" />
+                <Counter Name="Current Disk Queue Length" RangeGroup="Disk Queue Length" />
+                <Counter Name="Avg. Disk sec/Read" RangeGroup="Disk sec" />
+                <Counter Name="Avg. Disk sec/Transfer" RangeGroup="Disk sec" />
+                <Counter Name="Avg. Disk sec/Write" RangeGroup="Disk sec" />
+                <Counter Name="Disk Bytes/sec" RangeGroup="Disk Bytes sec" />
+                <Counter Name="Disk Read Bytes/sec" RangeGroup="Disk Bytes sec" />
+                <Counter Name="Disk Reads/sec" RangeGroup="Disk Transfers sec" />
+                <Counter Name="Disk Transfers/sec" RangeGroup="Disk Transfers sec" />
+                <Counter Name="Disk Write Bytes/sec" RangeGroup="Disk Bytes sec" />
+                <Counter Name="Disk Writes/sec" RangeGroup="Disk Transfers sec" />
+                <Counter Name="Split IO/Sec" RangeGroup="Disk Transfers sec" />
+              </Counters>
+              <Instances>
+                <Instance Name="*" />
+              </Instances>
+            </CounterCategory>
+            <CounterCategory Name="Processor">
+              <Counters>
+                <Counter Name="% Processor Time" Range="100">
+                  <ThresholdRules>
+                    <ThresholdRule Classname="Microsoft.VisualStudio.TestTools.WebStress.Rules.ThresholdRuleCompareConstant, Microsoft.VisualStudio.QualityTools.LoadTest">
+                      <RuleParameters>
+                        <RuleParameter Name="AlertIfOver" Value="True" />
+                        <RuleParameter Name="WarningThreshold" Value="75" />
+                        <RuleParameter Name="CriticalThreshold" Value="90" />
+                      </RuleParameters>
+                    </ThresholdRule>
+                  </ThresholdRules>
+                </Counter>
+                <Counter Name="% Privileged Time" Range="100" />
+                <Counter Name="% User Time" Range="100" />
+              </Counters>
+              <Instances>
+                <Instance Name="0" />
+                <Instance Name="_Total" />
+              </Instances>
+            </CounterCategory>
+            <CounterCategory Name="System">
+              <Counters>
+                <Counter Name="Context Switches/sec" />
+                <Counter Name="Processes" />
+                <Counter Name="Processor Queue Length" />
+                <Counter Name="Threads" />
+              </Counters>
+            </CounterCategory>
+            <CounterCategory Name="Process">
+              <Counters>
+                <Counter Name="% Processor Time" RangeGroup="Processor Time" />
+                <Counter Name="% Privileged Time" RangeGroup="Processor Time" />
+                <Counter Name="% User Time" RangeGroup="Processor Time" />
+                <Counter Name="Handle Count" />
+                <Counter Name="Thread Count" />
+                <Counter Name="Private Bytes" RangeGroup="Memory Bytes" />
+                <Counter Name="Virtual Bytes" RangeGroup="Memory Bytes" />
+                <Counter Name="Working Set" RangeGroup="Memory Bytes" />
+              </Counters>
+              <Instances>
+                <Instance Name="devenv" />
+                <Instance Name="QTAgentService" />
+                <Instance Name="QTAgent" />
+                <Instance Name="QTAgent32" />
+                <Instance Name="QTDCAgent" />
+                <Instance Name="QTDCAgent32" />
+              </Instances>
+            </CounterCategory>
+          </CounterCategories>
+          <DefaultCountersForAutomaticGraphs>
+            <DefaultCounter CategoryName="Processor" CounterName="% Processor Time" InstanceName="0" GraphName="" RunType="Local" />
+            <DefaultCounter CategoryName="Processor" CounterName="% Processor Time" InstanceName="_Total" GraphName="" RunType="Remote" />
+            <DefaultCounter CategoryName="Memory" CounterName="Available MBytes" InstanceName="" GraphName="" />
+          </DefaultCountersForAutomaticGraphs>
+        </CounterSet>
+      </CounterSets>
+      <RunConfigurations>
+        <RunConfiguration Name="Run Settings1" Description="" ResultsStoreType="Database" TimingDetailsStorage="AllIndividualDetails" SaveTestLogsOnError="true" SaveTestLogsFrequency="0" MaxErrorDetails="200" MaxErrorsPerType="1000" MaxThresholdViolations="1000" MaxRequestUrlsReported="1000" UseTestIterations="true" RunDuration="600" WarmupTime="0" CoolDownTime="0" TestIterations="1000" WebTestConnectionModel="ConnectionPerUser" WebTestConnectionPoolSize="50" SampleRate="10" ValidationLevel="Medium" SqlTracingConnectString="" SqlTracingConnectStringDisplayValue="" SqlTracingDirectory="" SqlTracingEnabled="false" SqlTracingMinimumDuration="500" RunUnitTestsInAppDomain="true">
+          <CounterSetMappings>
+            <CounterSetMapping ComputerName="[CONTROLLER MACHINE]">
+              <CounterSetReferences>
+                <CounterSetReference CounterSetName="LoadTest" />
+                <CounterSetReference CounterSetName="Controller" />
+              </CounterSetReferences>
+            </CounterSetMapping>
+            <CounterSetMapping ComputerName="[AGENT MACHINES]">
+              <CounterSetReferences>
+                <CounterSetReference CounterSetName="Agent" />
+              </CounterSetReferences>
+            </CounterSetMapping>
+          </CounterSetMappings>
+        </RunConfiguration>
+      </RunConfigurations>
+    </LoadTest>
+    <UnitTest name="FrameWork_Test_All_Bases" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="db977ebd-4a67-c005-d3ac-9a2831c1df55">
+      <Execution id="b19dc029-2ceb-4326-8cf6-070ca3cfa729" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.BinaryToolsTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FrameWork_Test_All_Bases" />
+    </UnitTest>
+    <UnitTest name="Test_Max_value" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="649bd73e-4aee-5d47-31f9-a0922a5717e3">
+      <Execution id="6cc674a6-5286-47f8-a3e8-a4f9f8e6f213" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.BinaryToolsTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Max_value" />
+    </UnitTest>
+    <UnitTest name="Test_All_Methods_Against_Big_file" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="31566a5b-9c79-9c3b-bfc0-62feb8605e8b">
+      <Execution id="4ceb82d0-a2a4-4238-b822-92e36080b04b" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.RemoveSpacesTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_All_Methods_Against_Big_file" />
+    </UnitTest>
+    <UnitTest name="RemoveSpaces_Should_Remove_All_Spaces" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="afd117f6-2b60-cf52-0e39-d6e0cf09fe06">
+      <Execution id="70b4c836-428a-4eeb-82bb-b87396ffca2a" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.RemoveSpacesTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RemoveSpaces_Should_Remove_All_Spaces" />
+    </UnitTest>
+    <UnitTest name="Test_All_Methods_Against_null_string" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="2930be41-66bb-851b-bd4c-018a5a9de27c">
+      <Execution id="108117ca-cde5-4618-a615-3983baf2d63c" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.RemoveSpacesTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_All_Methods_Against_null_string" />
+    </UnitTest>
+    <UnitTest name="VerifyAccuracyOfCustomExpanded" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="66612728-ddd7-9b44-637b-153b9d0b7dea">
+      <Execution id="ba1a73bc-1805-4393-a27e-d082b9fc16e2" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.BinaryToolsTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="VerifyAccuracyOfCustomExpanded" />
+    </UnitTest>
+    <UnitTest name="Test_Min_value" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="2bea5c29-0201-fd6f-d6d2-fbf71ea2b604">
+      <Execution id="9de340b8-aa4b-498d-a695-ae34a4340ca5" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.BinaryToolsTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Min_value" />
+    </UnitTest>
+    <UnitTest name="DecimalToAnyBaseExpanded_Simple_Test" storage="c:\users\rallen\documents\visual studio 2010\projects\thermofisherscientificcodesamples\thermofisherscientificcodesampletests\bin\debug\thermofisherscientificcodesampletests.dll" id="fa4e9a97-3c3f-1d7a-b241-ee01500187f4">
+      <Execution id="71e77ae7-8adb-4579-955e-b399ca7faacd" />
+      <TestMethod codeBase="C:/Users/rallen/Documents/Visual Studio 2010/Projects/ThermoFisherScientificCodeSamples/ThermoFisherScientificCodeSampleTests/bin/Debug/ThermoFisherScientificCodeSampleTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ThermoFisherScientificCodeSampleTests.BinaryToolsTest, ThermoFisherScientificCodeSampleTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DecimalToAnyBaseExpanded_Simple_Test" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="24b5f6a3-cd2e-6557-c743-ca9fb55b8168" executionId="bc432d28-7410-499e-803d-ceaedc1f20ba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2930be41-66bb-851b-bd4c-018a5a9de27c" executionId="108117ca-cde5-4618-a615-3983baf2d63c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2bea5c29-0201-fd6f-d6d2-fbf71ea2b604" executionId="9de340b8-aa4b-498d-a695-ae34a4340ca5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31566a5b-9c79-9c3b-bfc0-62feb8605e8b" executionId="4ceb82d0-a2a4-4238-b822-92e36080b04b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4521557e-6bb1-c2e1-7235-18ad762b2712" executionId="67960557-bc26-4a47-b508-cd73cbb32dcf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4f1a8139-2ecd-30c5-5e9f-22e91cd5f3b1" executionId="89bc84cf-0564-401a-bd23-c3bac389d911" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5314bee0-b236-78d9-5d3e-06200d35405c" executionId="f9ff4606-4386-4fad-bbc3-3d28872f7348" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5f185f43-c96a-57b8-a8fb-a3bd70fd2e86" executionId="30620b9e-afa9-4154-a5b8-8c729e662ebd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="649bd73e-4aee-5d47-31f9-a0922a5717e3" executionId="6cc674a6-5286-47f8-a3e8-a4f9f8e6f213" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="66612728-ddd7-9b44-637b-153b9d0b7dea" executionId="ba1a73bc-1805-4393-a27e-d082b9fc16e2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry isTransparent="false" testId="67e4a884-b7d8-4d7d-beff-42c665e4c614" executionId="696f7a21-97cf-41bd-9848-4ce4d053021d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <TestEntries>
+        <TestEntry testId="6d589604-2491-e2da-6afc-109adb6edcb3" executionId="5da7bb4b-44bd-4402-a0d1-5ceeaf4ee3ec" parentExecutionId="696f7a21-97cf-41bd-9848-4ce4d053021d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+        <TestEntry testId="cfde39b1-b5fd-29fe-7f0c-4405cafae970" executionId="8638263a-7480-4a51-afa8-7b7e9bd52006" parentExecutionId="696f7a21-97cf-41bd-9848-4ce4d053021d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+        <TestEntry testId="afd117f6-2b60-cf52-0e39-d6e0cf09fe06" executionId="fcfcc328-75ab-479e-a109-d3b5740fb89d" parentExecutionId="696f7a21-97cf-41bd-9848-4ce4d053021d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+        <TestEntry testId="4f1a8139-2ecd-30c5-5e9f-22e91cd5f3b1" executionId="ed4293bf-ca81-4b9d-948a-e1e6288b9cf7" parentExecutionId="696f7a21-97cf-41bd-9848-4ce4d053021d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+        <TestEntry testId="5314bee0-b236-78d9-5d3e-06200d35405c" executionId="fdfdf851-21f9-4e90-ab79-c740f23fabfc" parentExecutionId="696f7a21-97cf-41bd-9848-4ce4d053021d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+      </TestEntries>
+    </TestEntry>
+    <TestEntry testId="6d589604-2491-e2da-6afc-109adb6edcb3" executionId="93add91b-c925-4e80-93f1-33b31dad0d92" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="901b2ee2-8712-eeb3-d9a4-5a1cbdf0715e" executionId="e842a138-807c-46b6-af60-582d8172b2b5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="995c84b0-0b08-d65b-e13b-37f729e56182" executionId="68da2925-73f8-4a9a-a612-1ff017ab3932" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="afd117f6-2b60-cf52-0e39-d6e0cf09fe06" executionId="70b4c836-428a-4eeb-82bb-b87396ffca2a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bb0a01ad-5185-5e7f-ff14-553f6f16037c" executionId="7bb54fb9-dc8c-48be-bd44-1e14426f63f0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c1b0866d-7d9f-eea5-de47-f04bc6f8c38e" executionId="4e72e039-a642-4d82-bd41-0afc1bfea474" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cfde39b1-b5fd-29fe-7f0c-4405cafae970" executionId="59bda74a-4a67-4c17-b986-bf75b48d0de0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d14946ee-eabe-a9d1-bd96-ef65fcb93ed0" executionId="8c1ba649-f1fe-4bac-9ba3-702cb7c58661" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="db977ebd-4a67-c005-d3ac-9a2831c1df55" executionId="b19dc029-2ceb-4326-8cf6-070ca3cfa729" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ea2a1d6e-c10e-2769-6e75-02c6ed756307" executionId="1ee21f39-4dbb-4ebd-83c4-b29ca5f1732a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f336e2c2-1889-4000-7f0e-a4e55c5810d0" executionId="6b715616-cabc-43cc-839d-19d4124991cd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fa4e9a97-3c3f-1d7a-b241-ee01500187f4" executionId="71e77ae7-8adb-4579-955e-b399ca7faacd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="bc432d28-7410-499e-803d-ceaedc1f20ba" testId="24b5f6a3-cd2e-6557-c743-ca9fb55b8168" testName="DecimalToBinaryTest" computerName="RALLEN-PC" duration="00:00:00.0186501" startTime="2011-04-23T16:01:00.3376634-06:00" endTime="2011-04-23T16:01:00.3756656-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bc432d28-7410-499e-803d-ceaedc1f20ba">
+    </UnitTestResult>
+    <UnitTestResult executionId="108117ca-cde5-4618-a615-3983baf2d63c" testId="2930be41-66bb-851b-bd4c-018a5a9de27c" testName="Test_All_Methods_Against_null_string" computerName="RALLEN-PC" duration="00:00:00.0218426" startTime="2011-04-23T16:01:00.3906664-06:00" endTime="2011-04-23T16:01:00.4316688-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="108117ca-cde5-4618-a615-3983baf2d63c">
+    </UnitTestResult>
+    <UnitTestResult executionId="9de340b8-aa4b-498d-a695-ae34a4340ca5" testId="2bea5c29-0201-fd6f-d6d2-fbf71ea2b604" testName="Test_Min_value" computerName="RALLEN-PC" duration="00:00:00.0029813" startTime="2011-04-23T16:01:00.4596704-06:00" endTime="2011-04-23T16:01:00.4806716-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9de340b8-aa4b-498d-a695-ae34a4340ca5">
+    </UnitTestResult>
+    <UnitTestResult executionId="4ceb82d0-a2a4-4238-b822-92e36080b04b" testId="31566a5b-9c79-9c3b-bfc0-62feb8605e8b" testName="Test_All_Methods_Against_Big_file" computerName="RALLEN-PC" duration="00:00:00.0091257" startTime="2011-04-23T16:01:00.5196738-06:00" endTime="2011-04-23T16:01:00.5416751-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4ceb82d0-a2a4-4238-b822-92e36080b04b">
+    </UnitTestResult>
+    <UnitTestResult executionId="67960557-bc26-4a47-b508-cd73cbb32dcf" testId="4521557e-6bb1-c2e1-7235-18ad762b2712" testName="TestIntMaxValueCustom" computerName="RALLEN-PC" duration="00:00:00.0038350" startTime="2011-04-23T16:01:00.5506756-06:00" endTime="2011-04-23T16:01:00.6286800-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="67960557-bc26-4a47-b508-cd73cbb32dcf">
+    </UnitTestResult>
+    <UnitTestResult executionId="89bc84cf-0564-401a-bd23-c3bac389d911" testId="4f1a8139-2ecd-30c5-5e9f-22e91cd5f3b1" testName="RemoveSpaces_StringBuilder_foreach_Should_Remove_All_Spaces" computerName="RALLEN-PC" duration="00:00:00.0027692" startTime="2011-04-23T16:01:00.6536815-06:00" endTime="2011-04-23T16:01:00.6706824-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="89bc84cf-0564-401a-bd23-c3bac389d911">
+    </UnitTestResult>
+    <UnitTestResult executionId="f9ff4606-4386-4fad-bbc3-3d28872f7348" testId="5314bee0-b236-78d9-5d3e-06200d35405c" testName="RemoveSpaces_StringBuilder_Should_Remove_All_Spaces" computerName="RALLEN-PC" duration="00:00:00.0023024" startTime="2011-04-23T16:01:00.6856833-06:00" endTime="2011-04-23T16:01:00.7036843-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f9ff4606-4386-4fad-bbc3-3d28872f7348">
+    </UnitTestResult>
+    <UnitTestResult executionId="30620b9e-afa9-4154-a5b8-8c729e662ebd" testId="5f185f43-c96a-57b8-a8fb-a3bd70fd2e86" testName="DecimalToBinary_FasterTest" computerName="RALLEN-PC" duration="00:00:00.0036585" startTime="2011-04-23T16:01:00.7126848-06:00" endTime="2011-04-23T16:01:00.7366862-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="30620b9e-afa9-4154-a5b8-8c729e662ebd">
+    </UnitTestResult>
+    <UnitTestResult executionId="6cc674a6-5286-47f8-a3e8-a4f9f8e6f213" testId="649bd73e-4aee-5d47-31f9-a0922a5717e3" testName="Test_Max_value" computerName="RALLEN-PC" duration="00:00:00.0041331" startTime="2011-04-23T16:01:00.7536872-06:00" endTime="2011-04-23T16:01:00.7726883-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6cc674a6-5286-47f8-a3e8-a4f9f8e6f213">
+    </UnitTestResult>
+    <UnitTestResult executionId="ba1a73bc-1805-4393-a27e-d082b9fc16e2" testId="66612728-ddd7-9b44-637b-153b9d0b7dea" testName="VerifyAccuracyOfCustomExpanded" computerName="RALLEN-PC" duration="00:00:00.0106402" startTime="2011-04-23T16:01:00.7916894-06:00" endTime="2011-04-23T16:01:00.8166908-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ba1a73bc-1805-4393-a27e-d082b9fc16e2">
+    </UnitTestResult>
+    <LoadTestResult executionId="696f7a21-97cf-41bd-9848-4ce4d053021d" testId="67e4a884-b7d8-4d7d-beff-42c665e4c614" testName="RemoveSpacesPerformanceTest" computerName="RALLEN-PC" duration="00:00:16.6229508" startTime="2011-04-23T16:00:42.1196214-06:00" endTime="2011-04-23T16:00:58.7425722-06:00" testType="fa4c85ff-1236-4463-b954-3ba2f0eabd95" outcome="Completed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="696f7a21-97cf-41bd-9848-4ce4d053021d" runId="9" controllerStartTime="2011-04-23T16:00:42.1196214-06:00" runStatus="Stopped" resultsStoreType="Database" resultsRepositoryConnectString="LAs4ogoKlDfcWXXBMFGtf1MhPY6ZJI19Lyh4oztAgRg2YJCcYniaNGnhYdd07sZorrXdWYjc5SGgOmJfuJPO2s+RcdsNIRREoM3oiqW4AHUIEhVIMteVZVFyNrNu/di+" loadTestDuration="600" loadTestWarmupTime="0" previouslyViewed="false">
+      <Summary>
+        <PerformanceCounterResults>
+          <PerformanceCounterResult isOverallResultCounter="true" higherIsBetter="true" machineName="RALLEN-PC" categoryName="LoadTest:Scenario" counterName="User Load" instanceName="_Total" value="10" />
+          <PerformanceCounterResult isOverallResultCounter="true" higherIsBetter="true" machineName="RALLEN-PC" categoryName="LoadTest:Test" counterName="Total Tests" instanceName="_Total" value="1000" />
+          <PerformanceCounterResult isOverallResultCounter="true" higherIsBetter="false" machineName="RALLEN-PC" categoryName="LoadTest:Test" counterName="Failed Tests" instanceName="_Total" value="0" />
+          <PerformanceCounterResult isOverallResultCounter="true" higherIsBetter="true" machineName="RALLEN-PC" categoryName="LoadTest:Test" counterName="Tests/Sec" instanceName="_Total" value="60.15779" />
+          <PerformanceCounterResult isOverallResultCounter="true" higherIsBetter="false" machineName="RALLEN-PC" categoryName="LoadTest:Test" counterName="Avg. Test Time" instanceName="_Total" value="0.00135999988" />
+          <PerformanceCounterResult isOverallResultCounter="false" higherIsBetter="false" machineName="RALLEN-PC" categoryName="Processor" counterName="% Processor Time" instanceName="_Total" value="63.22049" />
+          <PerformanceCounterResult isOverallResultCounter="false" higherIsBetter="true" machineName="RALLEN-PC" categoryName="Memory" counterName="Available MBytes" instanceName="-" value="981" />
+          <PerformanceCounterResult isOverallResultCounter="false" higherIsBetter="false" machineName="RALLEN-PC" categoryName="Network Interface" counterName="Bytes Received/sec" instanceName="intel[r] pro_1000 pl network connection" value="627.6097" />
+          <PerformanceCounterResult isOverallResultCounter="false" higherIsBetter="false" machineName="RALLEN-PC" categoryName="Network Interface" counterName="Bytes Received/sec" instanceName="isatap.hsd1.co.comcast.net." value="0" />
+          <PerformanceCounterResult isOverallResultCounter="false" higherIsBetter="false" machineName="RALLEN-PC" categoryName="Network Interface" counterName="Bytes Received/sec" instanceName="local area connection* 9" value="0" />
+          <PerformanceCounterResult isOverallResultCounter="false" higherIsBetter="false" machineName="RALLEN-PC" categoryName="Network Interface" counterName="Bytes Sent/sec" instanceName="intel[r] pro_1000 pl network connection" value="219.085526" />
+          <PerformanceCounterResult isOverallResultCounter="false" higherIsBetter="false" machineName="RALLEN-PC" categoryName="Network Interface" counterName="Bytes Sent/sec" instanceName="isatap.hsd1.co.comcast.net." value="0" />
+          <PerformanceCounterResult isOverallResultCounter="false" higherIsBetter="false" machineName="RALLEN-PC" categoryName="Network Interface" counterName="Bytes Sent/sec" instanceName="local area connection* 9" value="0" />
+        </PerformanceCounterResults>
+        <TestSummaries>
+          <TestSummary scenarioName="Scenario1" testName="RemoveSpaces_Should_Remove_All_Spaces" totalTests="215" testsFailed="0" averageDuration="0" />
+          <TestSummary scenarioName="Scenario1" testName="RemoveSpaces_CustomReplace_Should_Remove_All_Spaces" totalTests="187" testsFailed="0" averageDuration="1" />
+          <TestSummary scenarioName="Scenario1" testName="RemoveSpaces_StringBuilder_Should_Remove_All_Spaces" totalTests="203" testsFailed="0" averageDuration="0" />
+          <TestSummary scenarioName="Scenario1" testName="RemoveSpaces_StringBuilder_foreach_Should_Remove_All_Spaces" totalTests="190" testsFailed="0" averageDuration="0" />
+          <TestSummary scenarioName="Scenario1" testName="RemoveSpaces_LINQ_Should_Remove_All_Spaces" totalTests="205" testsFailed="0" averageDuration="4" />
+        </TestSummaries>
+      </Summary>
+    </LoadTestResult>
+    <UnitTestResult executionId="93add91b-c925-4e80-93f1-33b31dad0d92" testId="6d589604-2491-e2da-6afc-109adb6edcb3" testName="RemoveSpaces_CustomReplace_Should_Remove_All_Spaces" computerName="RALLEN-PC" duration="00:00:00.0023551" startTime="2011-04-23T16:01:00.8306916-06:00" endTime="2011-04-23T16:01:00.8506927-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="93add91b-c925-4e80-93f1-33b31dad0d92">
+    </UnitTestResult>
+    <UnitTestResult executionId="e842a138-807c-46b6-af60-582d8172b2b5" testId="901b2ee2-8712-eeb3-d9a4-5a1cbdf0715e" testName="Test_All_Methods_Against_String_with_no_spaces" computerName="RALLEN-PC" duration="00:00:00.0056102" startTime="2011-04-23T16:01:00.8686938-06:00" endTime="2011-04-23T16:01:00.9917008-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e842a138-807c-46b6-af60-582d8172b2b5">
+    </UnitTestResult>
+    <UnitTestResult executionId="68da2925-73f8-4a9a-a612-1ff017ab3932" testId="995c84b0-0b08-d65b-e13b-37f729e56182" testName="BadInput" computerName="RALLEN-PC" duration="00:00:00.0059346" startTime="2011-04-23T16:01:01.0207025-06:00" endTime="2011-04-23T16:01:01.0417037-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="68da2925-73f8-4a9a-a612-1ff017ab3932">
+    </UnitTestResult>
+    <UnitTestResult executionId="70b4c836-428a-4eeb-82bb-b87396ffca2a" testId="afd117f6-2b60-cf52-0e39-d6e0cf09fe06" testName="RemoveSpaces_Should_Remove_All_Spaces" computerName="RALLEN-PC" duration="00:00:00.0024256" startTime="2011-04-23T16:01:01.0637049-06:00" endTime="2011-04-23T16:01:01.0847061-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="70b4c836-428a-4eeb-82bb-b87396ffca2a">
+    </UnitTestResult>
+    <UnitTestResult executionId="7bb54fb9-dc8c-48be-bd44-1e14426f63f0" testId="bb0a01ad-5185-5e7f-ff14-553f6f16037c" testName="GetFibonacciTest" computerName="RALLEN-PC" duration="00:00:00.0035497" startTime="2011-04-23T16:01:01.1037072-06:00" endTime="2011-04-23T16:01:01.1227083-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7bb54fb9-dc8c-48be-bd44-1e14426f63f0">
+    </UnitTestResult>
+    <UnitTestResult executionId="4e72e039-a642-4d82-bd41-0afc1bfea474" testId="c1b0866d-7d9f-eea5-de47-f04bc6f8c38e" testName="DecimalToAnyBaseCustomTests" computerName="RALLEN-PC" duration="00:00:00.0027900" startTime="2011-04-23T16:01:01.1397093-06:00" endTime="2011-04-23T16:01:01.1647107-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4e72e039-a642-4d82-bd41-0afc1bfea474">
+    </UnitTestResult>
+    <UnitTestResult executionId="59bda74a-4a67-4c17-b986-bf75b48d0de0" testId="cfde39b1-b5fd-29fe-7f0c-4405cafae970" testName="RemoveSpaces_LINQ_Should_Remove_All_Spaces" computerName="RALLEN-PC" duration="00:00:00.0067374" startTime="2011-04-23T16:01:01.1997127-06:00" endTime="2011-04-23T16:01:01.2327146-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="59bda74a-4a67-4c17-b986-bf75b48d0de0">
+    </UnitTestResult>
+    <UnitTestResult executionId="8c1ba649-f1fe-4bac-9ba3-702cb7c58661" testId="d14946ee-eabe-a9d1-bd96-ef65fcb93ed0" testName="TestLowerNumbers" computerName="RALLEN-PC" duration="00:00:00.0509630" startTime="2011-04-23T16:01:01.2997184-06:00" endTime="2011-04-23T16:01:01.3707225-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8c1ba649-f1fe-4bac-9ba3-702cb7c58661">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;3&gt;. Actual:&lt;4&gt;. </Message>
+          <StackTrace>   at ThermoFisherScientificCodeSampleTests.FibonacciTest.TestLowerNumbers() in C:\Users\rallen\Documents\Visual Studio 2010\Projects\ThermoFisherScientificCodeSamples\ThermoFisherScientificCodeSampleTests\FibonacciTest.cs:line 92
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b19dc029-2ceb-4326-8cf6-070ca3cfa729" testId="db977ebd-4a67-c005-d3ac-9a2831c1df55" testName="FrameWork_Test_All_Bases" computerName="RALLEN-PC" duration="00:00:00.0038388" startTime="2011-04-23T16:01:01.4227255-06:00" endTime="2011-04-23T16:01:01.4417265-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b19dc029-2ceb-4326-8cf6-070ca3cfa729">
+    </UnitTestResult>
+    <UnitTestResult executionId="1ee21f39-4dbb-4ebd-83c4-b29ca5f1732a" testId="ea2a1d6e-c10e-2769-6e75-02c6ed756307" testName="DecimalToAnyBaseExpandedTest" computerName="RALLEN-PC" duration="00:00:00.0066279" startTime="2011-04-23T16:01:01.4527272-06:00" endTime="2011-04-23T16:01:01.4757285-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1ee21f39-4dbb-4ebd-83c4-b29ca5f1732a">
+    </UnitTestResult>
+    <UnitTestResult executionId="6b715616-cabc-43cc-839d-19d4124991cd" testId="f336e2c2-1889-4000-7f0e-a4e55c5810d0" testName="FrameworkMethod_Should_Be_Same_As_Custom" computerName="RALLEN-PC" duration="00:00:00.0034234" startTime="2011-04-23T16:01:01.4857291-06:00" endTime="2011-04-23T16:01:01.5077303-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6b715616-cabc-43cc-839d-19d4124991cd">
+    </UnitTestResult>
+    <UnitTestResult executionId="71e77ae7-8adb-4579-955e-b399ca7faacd" testId="fa4e9a97-3c3f-1d7a-b241-ee01500187f4" testName="DecimalToAnyBaseExpanded_Simple_Test" computerName="RALLEN-PC" duration="00:00:00.0028123" startTime="2011-04-23T16:01:01.5237312-06:00" endTime="2011-04-23T16:01:01.5447324-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="71e77ae7-8adb-4579-955e-b399ca7faacd">
+    </UnitTestResult>
+  </Results>
+</TestRun>

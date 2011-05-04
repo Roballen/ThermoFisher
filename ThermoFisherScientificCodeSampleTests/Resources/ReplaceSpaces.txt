@@ -1,0 +1,61 @@
+Robert Allen	
+345 Sumner St., Longmont, CO 80501	303.775.2963	RobAllen.business@gmail.com
+Career Summary
+An accomplished programmer specializing in delivering web-based and spatially-enabled software solutions to fortune 100 companies in the mortgage and insurance industries.  Customer-oriented professional delivering complex quality products on time and within budget.
+•	Over eight years developing software		•	Software team management		
+•	Over six years .Net development	•	Software design and architecture
+•	Web development	•	Enterprise integrations
+•	Geospatial development (GIS)	•	Project management
+•	Database design and architecture	•	Business development & sales support
+
+
+Languages: C#, Basic, PL/SQL , C++, FoxPro
+Database: SQL Server 2000/2005, Oracle 10/11g Spatial, Access, Visual FoxPro, db4o
+Technologies: ASP.NET, ADO.NET, Web Services, XML, XSLT, HTML, CSS, Javascript/Ajax
+Tools: Visual Studio .NET 05/08/10, XmlSpy, MapInfo, MapXtreme, MapBasic, MS Expression, Dream Weaver, VSS, TFS, CVS, Git, nHibernate, Sharepoint, Infragistics, Rightfax, Visio, Sql Developer
+Networking: TCP/IP, FTP, IIS, Active Directory, F5, custom load balancing
+Platforms: Windows, Hyper-V
+Practices: Test Driven Development, Agile Methodologies, Object Oriented Design, Continuous Integration, UML, Service Oriented Architecture, n-tier architecture
+
+Professional Experience
+Flood Services Supervisor  Kroll Factual Data 	April 2010-April 2011
+•	Managed an agile team of developers and quality assurance technicians
+•	Demonstrated ability to meet deadlines and business requirements within a rapidly changing regulatory environment
+•	Effectively worked in cross functional new product development teams
+•	Designed and managed the development of many software systems to enhance core products’ value
+•	Assisted in recruiting and interviewing programming candidates
+Application Programmer III  Kroll Factual Data  	March 2008-April 2010
+•	Architected various aspects of the redesign of Kroll Factual Data’s web-based ordering platform with a focus on ease of deployment, reduced coupling, n-tiered architecture, and increased testability and maintainability
+•	Improved software quality through implementation of best practices such as test driven development, continuous integration and code review
+•	Lead developer on enterprise integrations with multiple vendors as well as various large clients
+•	Increased automated flood determination rate by 15%, reducing manual labor costs and reduced turnaround times to our clients
+•	Decreased liability risk by increasing the accuracy of automated determinations to 99.9%
+•	Developed interactive mapping websites integrating multiple spatial data formats
+•	Worked closely with sales and business development to capture requirements and processes as well as generate new products and services
+•	Project lead for the migration of source code from FoxPro to C#/ASP.NET and migrating data to SQL and Oracle
+Application Programmer II  Kroll Factual Data 	2004-March 2008
+•	Developed and maintained web applications for ordering, processing, and reporting for a broad suite of products supporting the mortgage and insurance industries
+•	Flood Services lead on disaster recovery, redundancy, and scalability projects to ensure business continuity
+•	Worked with a future Microsoft MVP migrating servers and applications to early commercial virtualization solutions.  Assisted in deploying Hyper-V Server 2008 to our entire datacenter resulting in a 90% reduction in energy costs, increased agility and responsiveness, and increased business continuity
+•	Key resource in the migration of vast C++ codebase to C# while implementing best practices
+•	Developed and maintained GIS and database related back-end applications
+•	Leveraged technologies such as XSL and XSLT to increase the speed and maintainability of our report and translation engines
+•	Using PL/SQL, developed algorithms for generating flood determinations
+•	Developed automated fax and email systems for product delivery and status change notification using Rightfax
+MIS programmer   BediscloSure.com  	2002-2004
+•	Collaborated in the design and creation of a natural hazard disclosure product
+•	Created internal website for processing disclosures and created the business logic and data layers for the external website
+•	Created various applications and scripts to help GIS analysts efficiently create spatial layers
+•	Developed WAP site using XHTML and WCSS to deliver products directly to early generation Nokia web-enabled phones
+Assistant Supervisor of Research  National Flood Research 	2001-2002
+•	Supervised team of 10 research analysts
+•	Evaluated staff performance
+•	Managed production output by assigning daily production tasks
+Education and Training
+University of Colorado, BA in Economics with concentration in Computer Science and Information Technology courses
+Training:
+•	Oracle University: Oracle Spatial 10g fundamentals, Oracle Spatial 10g Advanced
+•	Fair Credit Reporting Act certified
+Accomplishments
+Vice-Chairman of the MISMO flood workgroup, helped develop and maintain xml standards for the mortgage industry
+Programming MVP (2008), Kroll Factual Data

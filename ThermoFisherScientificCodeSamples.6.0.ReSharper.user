@@ -1,0 +1,297 @@
+<Configuration>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="MSTest" Id="ThermoFisherScientificCodeSampleTests.BinaryToolsTest" type="MsTestTestClassElement" TypeName="ThermoFisherScientificCodeSampleTests.BinaryToolsTest" Project="DDE93E0E-3E22-4650-A638-BFF2A049B210" />
+        <UnitTestElement Provider="MSTest" Id="ThermoFisherScientificCodeSampleTests.BinaryToolsTest.DecimalToAnyBaseExpandedTest" ParentId="ThermoFisherScientificCodeSampleTests.BinaryToolsTest" type="MsTestTestMethodElement" MethodName="DecimalToAnyBaseExpandedTest" Project="DDE93E0E-3E22-4650-A638-BFF2A049B210" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/d:Resources/f:ReplaceSpaces.txt" caret="4687" fromTop="22" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:RemoveSpacesTest.cs" caret="5490" fromTop="21" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:BinaryToolsTest.cs" caret="442" fromTop="6" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:FibonacciTest.cs" caret="2015" fromTop="7" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:RemoveSpaces.cs" caret="165" fromTop="7" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:DecimalToBinary.cs" caret="252" fromTop="10" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:RemoveSpacesPerformanceTest.loadtest" caret="335" fromTop="1" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:Fibonacci.cs" caret="922" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:DecimalToBinary.cs" caret="725" fromTop="17" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:DecimalToBinary.cs" caret="620" fromTop="18" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:BinaryToolsTest.cs" caret="4759" fromTop="21" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:BinaryToolsTest.cs" caret="4598" fromTop="19" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:BinaryToolsTest.cs" caret="5226" fromTop="24" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:DecimalToBinary.cs" caret="2698" fromTop="20" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:BinaryToolsTest.cs" caret="2549" fromTop="16" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:Fibonacci.cs" caret="3836" fromTop="8" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:Fibonacci.cs" caret="847" fromTop="11" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:Fibonacci.cs" caret="847" fromTop="11" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:FibonacciTest.cs" caret="2411" fromTop="14" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:FibonacciTest.cs" caret="2876" fromTop="27" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:Fibonacci.cs" caret="847" fromTop="19" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:Fibonacci.cs" caret="847" fromTop="19" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:Fibonacci.cs" caret="847" fromTop="20" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:Fibonacci.cs" caret="555" fromTop="13" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:Fibonacci.cs" caret="1561" fromTop="18" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:Fibonacci.cs" caret="1301" fromTop="16" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:FibonacciTest.cs" caret="2466" fromTop="16" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:Fibonacci.cs" caret="1544" fromTop="22" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:FibonacciTest.cs" caret="2694" fromTop="17" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:FibonacciTest.cs" caret="2707" fromTop="15" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:FibonacciTest.cs" caret="1809" fromTop="18" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:FibonacciTest.cs" caret="2015" fromTop="23" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:BinaryToolsTest.cs" caret="6622" fromTop="25" />
+      <File id="DDE93E0E-3E22-4650-A638-BFF2A049B210/f:RemoveSpacesTest.cs" caret="5727" fromTop="27" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:RemoveSpaces.cs" caret="156" fromTop="7" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:Fibonacci.cs" caret="156" fromTop="7" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:DecimalToBinary.cs" caret="252" fromTop="10" />
+      <File id="B9848B24-8FA7-4D14-A93C-83DEA3BCFE5A/f:Fibonacci.cs" caret="1255" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="enum" priority="27" />
+      <Item value="BaseType`0" priority="1130" />
+      <Item value="int" priority="1612" />
+      <Item value="while" priority="86" />
+      <Item value="value" priority="550" />
+      <Item value="binaryholder" priority="86" />
+      <Item value="result" priority="144" />
+      <Item value="bcounter" priority="28" />
+      <Item value="currentval" priority="28" />
+      <Item value="pow" priority="28" />
+      <Item value="Math`0" priority="57" />
+      <Item value="return" priority="1072" />
+      <Item value="BinaryTools`0" priority="376" />
+      <Item value="thebase" priority="462" />
+      <Item value="TestMethod" priority="202" />
+      <Item value="public" priority="723" />
+      <Item value="void" priority="492" />
+      <Item value="PrivateObject`0" priority="57" />
+      <Item value="new" priority="1101" />
+      <Item value="foreach" priority="289" />
+      <Item value="Assert`0" priority="463" />
+      <Item value="Enum`0" priority="28" />
+      <Item value="GetType`0" priority="58" />
+      <Item value="typeof" priority="28" />
+      <Item value="i" priority="405" />
+      <Item value="val" priority="86" />
+      <Item value="var" priority="579" />
+      <Item value="System" priority="28" />
+      <Item value="Globalization" priority="24" />
+      <Item value="NumberStyles`0" priority="49" />
+      <Item value="Int32`0" priority="115" />
+      <Item value="switch" priority="57" />
+      <Item value="case" priority="144" />
+      <Item value="default" priority="28" />
+      <Item value="Convert`0" priority="86" />
+      <Item value="private" priority="260" />
+      <Item value="const" priority="57" />
+      <Item value="ConsoleTraceListener`0" priority="28" />
+      <Item value="Dictionary" priority="84" />
+      <Item value="Dictionary&lt;BaseType,Dictionary&lt;int,int&gt;&gt;" priority="51" />
+      <Item value="BaseType" priority="51" />
+      <Item value="_testmatrix" priority="289" />
+      <Item value="Dictionary&lt;int,int&gt;" priority="25" />
+      <Item value="Dictionary&lt;int,Dictionary&lt;BaseType,int&gt;&gt;" priority="25" />
+      <Item value="Dictionary&lt;BaseType,int&gt;" priority="25" />
+      <Item value="c128" priority="28" />
+      <Item value="KeyValuePair" priority="57" />
+      <Item value="in" priority="28" />
+      <Item value="keyValuePair" priority="115" />
+      <Item value="test" priority="28" />
+      <Item value="BinaryToolsTest`0" priority="28" />
+      <Item value="BitConverter`0" priority="28" />
+      <Item value="as" priority="28" />
+      <Item value="static" priority="289" />
+      <Item value="if" priority="579" />
+      <Item value="theBase" priority="57" />
+      <Item value="String`0" priority="28" />
+      <Item value="null" priority="57" />
+      <Item value="Decimal`0" priority="28" />
+      <Item value="DecimalToBaseString`0" priority="28" />
+      <Item value="string" priority="228" />
+      <Item value="FileInfo" priority="26" />
+      <Item value="file" priority="86" />
+      <Item value="using" priority="86" />
+      <Item value="reader" priority="57" />
+      <Item value="GetStringFromFile`0" priority="57" />
+      <Item value="Environment`0" priority="28" />
+      <Item value="ResourceManager" priority="25" />
+      <Item value="assembly" priority="28" />
+      <Item value="rm" priority="28" />
+      <Item value="this" priority="28" />
+      <Item value="Stream`0" priority="57" />
+      <Item value="assem" priority="28" />
+      <Item value="stream" priority="57" />
+      <Item value="filename" priority="28" />
+      <Item value="teststring" priority="57" />
+      <Item value="Examples`0" priority="57" />
+      <Item value="StringBuilder" priority="25" />
+      <Item value="char" priority="689" />
+      <Item value="Single`0" priority="28" />
+      <Item value="sbyte" priority="28" />
+      <Item value="throw" priority="57" />
+      <Item value="ArgumentOutOfRangeException" priority="26" />
+      <Item value="DecimalToAnyBaseCustom`0" priority="28" />
+      <Item value="struct" priority="27" />
+      <Item value="DivideByZeroException`0" priority="28" />
+      <Item value="ASCIIEncoding`0" priority="28" />
+      <Item value="EnvironmentVariableTarget`0" priority="28" />
+      <Item value="_base64Chars" priority="86" />
+      <Item value="DecimalToAnyBase`0" priority="28" />
+      <Item value="encodingtable" priority="144" />
+      <Item value="Length" priority="380" />
+      <Item value="do" priority="28" />
+      <Item value="buffer" priority="57" />
+      <Item value="Array`0" priority="173" />
+      <Item value="count" priority="28" />
+      <Item value="for" priority="86" />
+      <Item value="try" priority="28" />
+      <Item value="Debug`0" priority="86" />
+      <Item value="base64" priority="57" />
+      <Item value="GetEncodingTable`0" priority="86" />
+      <Item value="results" priority="521" />
+      <Item value="max" priority="115" />
+      <Item value="ref" priority="57" />
+      <Item value="_fibsequence" priority="405" />
+      <Item value="GetNumbersFromRequence`0" priority="28" />
+      <Item value="idx" priority="115" />
+      <Item value="resultset" priority="57" />
+      <Item value="cur" priority="86" />
+      <Item value="Fibonacci`0" priority="57" />
+      <Item value="StringComparison`0" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ThermoFisherScientificCodeSamples.BaseType">
+      <Item value="Two" priority="149" />
+      <Item value="Sixteen" priority="199" />
+      <Item value="Ten" priority="124" />
+      <Item value="Eight" priority="74" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Pow`0" priority="24" />
+      <Item value="Abs`0" priority="24" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ThermoFisherScientificCodeSamples.BinaryTools_Accessor">
+      <Item value="DecimalToBinary`0" priority="24" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ThermoFisherScientificCodeSamples.BinaryTools">
+      <Item value="DecimalToBinary_Faster`0" priority="24" />
+      <Item value="DecimalToBase`0" priority="74" />
+      <Item value="DecimalToBinaryFaster`0" priority="24" />
+      <Item value="DecimalToBaseCustom`0" priority="50" />
+      <Item value="DecimalToAnyBase`0" priority="127" />
+      <Item value="DecimalToBinaryCustom`0" priority="25" />
+      <Item value="DecimalToAnyBaseCustom`0" priority="50" />
+      <Item value="DecimalToBinary`0" priority="74" />
+      <Item value="DecimalToAnyBaseExpanded`0" priority="152" />
+      <Item value="DecimalFromBaseType`0" priority="77" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual`1" priority="251" />
+      <Item value="IsTrue`0" priority="175" />
+      <Item value="IsFalse`0" priority="25" />
+      <Item value="IsNotNull`0" priority="24" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Enum">
+      <Item value="GetValues`0" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="Write`0" priority="25" />
+      <Item value="Print`0" priority="74" />
+      <Item value="WriteLine`0" priority="24" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="74" />
+      <Item value="MaxValue" priority="274" />
+      <Item value="MinValue" priority="102" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Globalization.NumberStyles">
+      <Item value="HexNumber" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="24" />
+      <Item value="ToByte`0" priority="24" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="199" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="150" />
+      <Item value="Value" priority="100" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="24" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="Exists" priority="24" />
+      <Item value="OpenRead`0" priority="24" />
+      <Item value="OpenText`0" priority="24" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadToEnd`0" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="CurrentDirectory" priority="24" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetExecutingAssembly`0" priority="24" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ThermoFisherScientificCodeSampleTests.RemoveSpacesTest">
+      <Item value="GetType`0" priority="24" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Assembly" priority="24" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Assembly">
+      <Item value="GetManifestResourceStream`0" priority="24" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Replace`0" priority="24" />
+      <Item value="Contains`0" priority="24" />
+      <Item value="ToUpper`0" priority="25" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ThermoFisherScientificCodeSamples.Examples">
+      <Item value="RemoveSpaces_Custom_Replace`0" priority="24" />
+      <Item value="RemoveSpacesStringBuilder`0" priority="25" />
+      <Item value="FastReplace`0" priority="24" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="74" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Array">
+      <Item value="Copy`0" priority="49" />
+      <Item value="Resize`1" priority="51" />
+      <Item value="BinarySearch`0" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ThermoFisherScientificCodeSamples.Fibonacci">
+      <Item value="GetFibonacci`0" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.StringComparison">
+      <Item value="OrdinalIgnoreCase" priority="24" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
